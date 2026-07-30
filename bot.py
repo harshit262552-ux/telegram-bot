@@ -2,7 +2,7 @@ import random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler, MessageHandler, filters
 
-TOKEN = "8654387730:AAGClBafFiBSQEumj6WHq5MLGeTcCxX6uRs"
+TOKEN = "8831738687:AAGKm0t4oaJCoFA49D_Xz57jiQs_qdqFc4k"
 PASSWORD = "HARSHITHACKERH"
 
 users = {}
